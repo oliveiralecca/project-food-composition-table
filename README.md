@@ -1,2 +1,2 @@
-# projeto-tabela-de-composicao-de-alimentos
- Projeto pessoal desenvolvido em Python 3, com a finalidade de treinar a linguagem e unir minha graduação em Nutrição à programação.
+# project-food-composition-table
+ Personal project developed in Python 3, with the purpose of training the language and joining my undergraduate degree in Nutrition to programming.
